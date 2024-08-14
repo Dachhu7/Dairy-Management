@@ -1,8 +1,4 @@
-
 ### Dairy Management System
-
-```markdown
-# Dairy Management System
 
 ## Project Overview
 The Dairy Management System is an online platform designed to automate and enhance communication between rural residents and dairy management. This system improves efficiency and streamlines interactions within the dairy supply chain.
